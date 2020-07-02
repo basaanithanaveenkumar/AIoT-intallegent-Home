@@ -1,1 +1,1 @@
-# AIoT-intallegent-Home
+# AIoT-intellegent-Home
